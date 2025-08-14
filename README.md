@@ -36,5 +36,6 @@ Based on these findings, targeted suggestions are provided for:
 * **Demographic Targeting:** Prioritizing females and middle-aged individuals in health education.
 * **Building-Specific Interventions:** Addressing highly affected building types, especially in undeveloped areas.
 
-![Dengue Data Analysis](https://i.ibb.co/abcd123/Dengue-Data-Analysis.png)
+![Dengue Data Analysis](https://i.ibb.co/NPbNqF1/Dengue-Data-Analysis-Report-In-Dhaka-City.png)
+
 
